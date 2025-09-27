@@ -1,0 +1,175 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../moon-fonts/icomoon.eot?vxvp4r');
+  src:  url('../moon-fonts/icomoon.eot?vxvp4r#iefix') format('embedded-opentype'),
+    url('../moon-fonts/icomoon.ttf?vxvp4r') format('truetype'),
+    url('../moon-fonts/icomoon.woff?vxvp4r') format('woff'),
+    url('../moon-fonts/icomoon.svg?vxvp4r#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-circuit:before {
+  content: "\e900";
+}
+.icon-clouds:before {
+  content: "\e901";
+}
+.icon-Copy:before {
+  content: "\e902";
+}
+.icon-credit-card:before {
+  content: "\e903";
+}
+.icon-edit-fill:before {
+  content: "\e904";
+}
+.icon-Email:before {
+  content: "\e905";
+}
+.icon-ethereum-3-1:before {
+  content: "\e906";
+}
+.icon-euro-1:before {
+  content: "\e907";
+}
+.icon-eye:before {
+  content: "\e908";
+}
+.icon-eye-off:before {
+  content: "\e909";
+}
+.icon-Facebook:before {
+  content: "\e90a";
+}
+.icon-file-shield-alt:before {
+  content: "\e90b";
+}
+.icon-file-text:before {
+  content: "\e90c";
+}
+.icon-flash:before {
+  content: "\e90d";
+}
+.icon-globe:before {
+  content: "\e90e";
+}
+.icon-globe-2-fill:before {
+  content: "\e90f";
+}
+.icon-Group:before {
+  content: "\e910";
+}
+.icon-Grouphhh:before {
+  content: "\e911";
+}
+.icon-headphones:before {
+  content: "\e912";
+}
+.icon-Info:before {
+  content: "\e913";
+}
+.icon-Location-Pin:before {
+  content: "\e914";
+}
+.icon-Lock-2:before {
+  content: "\e915";
+}
+.icon-Lock:before {
+  content: "\e916";
+}
+.icon-Lock02:before {
+  content: "\e917";
+}
+.icon-lock-fill:before {
+  content: "\e918";
+  color: #595c65;
+}
+.icon-Mask-group-1:before {
+  content: "\e919";
+}
+.icon-Minus:before {
+  content: "\e91a";
+}
+.icon-Money:before {
+  content: "\e91b";
+}
+.icon-money-bill:before {
+  content: "\e91c";
+}
+.icon-monitor:before {
+  content: "\e91d";
+}
+.icon-navigation-2-fill:before {
+  content: "\e91e";
+}
+.icon-person-fill:before {
+  content: "\e91f";
+}
+.icon-Phone:before {
+  content: "\e920";
+}
+.icon-phone-fill:before {
+  content: "\e921";
+}
+.icon-pin-fill:before {
+  content: "\e922";
+}
+.icon-pinterest-p-1:before {
+  content: "\e923";
+}
+.icon-twitter-1:before {
+  content: "\e924";
+}
+.icon-vimeo-v-1:before {
+  content: "\e925";
+}
+.icon-Wallet_light:before {
+  content: "\e926";
+}
+.icon-world-1-1:before {
+  content: "\e927";
+}
+.icon-Admin-1:before {
+  content: "\e928";
+}
+.icon-bitcoin-6-1:before {
+  content: "\e929";
+}
+.icon-Blub-02:before {
+  content: "\e92a";
+}
+.icon-Btc_Circle:before {
+  content: "\e92b";
+}
+.icon-bulb:before {
+  content: "\e92c";
+}
+.icon-Calender-1:before {
+  content: "\e92d";
+}
+.icon-chart-line-up:before {
+  content: "\e92e";
+}
+.icon-Check:before {
+  content: "\e92f";
+}
+.icon-Chevron_Right_1:before {
+  content: "\e930";
+}
