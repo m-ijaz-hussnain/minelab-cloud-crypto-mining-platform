@@ -1,0 +1,32 @@
+# Ignore composer dependencies
+/vendor/
+
+# Ignore environment variables
+.env
+.env.local
+.env.*.local
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files and cache
+/storage/logs/
+storage/framework/cache/
+storage/framework/sessions/
+storage/framework/views/
+
+# Ignore IDE/editor specific files
+.idea/
+.vscode/
+*.iml
+
+# Ignore PHPUnit result cache
+.phpunit.result.cache
+
+# Ignore node modules (agar frontend dependencies hain)
+node_modules/
+
+# Ignore compiled CSS/JS (agar frontend build process hai)
+public/css/
+public/js/
